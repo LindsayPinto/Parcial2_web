@@ -14,8 +14,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <IntlProvider locale="es" messages= {localeEsMessages}>
-    {/* <Login /> */}
-    <Gallery />
+    <Login />
+    {/* <Gallery /> */}
     </IntlProvider>
   </React.StrictMode>
 );
