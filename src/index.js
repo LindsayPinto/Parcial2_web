@@ -4,11 +4,14 @@ import './index.css';
 import App from './App';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
+import Login from './components/login';
+import Gallery from './components/gallery';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Login />
+    {/* <Gallery /> */}
   </React.StrictMode>
 );
 

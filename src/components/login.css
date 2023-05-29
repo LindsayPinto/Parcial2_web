@@ -1,0 +1,31 @@
+.imagenLogin{
+    background-image:url("https://i.pinimg.com/564x/79/c4/a4/79c4a4a1653442d6e30e4c4ae5ef175f.jpg");
+    background-position: center center;
+}
+
+body{
+    background-image:url("https://images.template.net/wp-content/uploads/2016/03/26073008/Purple-Image.jpg");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+            
+    /* background: #a526f4; */
+    /* background: linear-gradient(to right, #a526f4,#cccbcb); */ 
+}
+
+a:link
+{
+    color:#FFFFFF;
+}
+
+a:visited
+{
+    color:#FFFFFF;
+}
+
+a:hover 
+{
+    color:#FFFFFF;
+}
+
