@@ -1,0 +1,14 @@
+{
+    "login.terms": "Privacidad Política Terminos de uso",
+    "login.account": "Inicia sesión en tu cuenta",
+    "login.username": "Usuario",
+    "login.password": "Contraseña",
+    "login.login": "Iniciar sesión",
+    "login.cant":"No puedes iniciar sesión en tu cuenta?",
+    "gallery.author": "Autor: ",
+    "gallery.publisher": "Editorial: ",
+    "gallery.genre": "Género: ",
+    "gallery.year": "Año:  ",
+    "gallery.price": "Precio: ",
+    "gallery.summary": "Resumen: "
+}

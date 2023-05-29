@@ -1,0 +1,14 @@
+{
+    "login.terms": "Privacy Policy Terms of use",
+    "login.account": "Log into your account",
+    "login.username": "Username",
+    "login.password": "Password",
+    "login.login": "Log in",
+    "login.cant":"Can't log in?",
+    "gallery.author": "Author: ",
+    "gallery.publisher": "Publisher: ",
+    "gallery.genre": "Genre: ",
+    "gallery.year": "Year: ",
+    "gallery.price": "Price: ",
+    "gallery.summary": "Summary: "
+}
